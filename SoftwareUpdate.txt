@@ -1,1 +1,1 @@
-Add OBB models to GITHUB_ASSET_NAMES (#7425)
+Add YOLOv8 LibTorch C++ inference example (#7090)
