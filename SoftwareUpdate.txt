@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+Fix Yolo 8.0.206 scale bug (#7821)
