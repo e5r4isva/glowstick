@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Replace onnx2tf usage from CLI to Python (#8429)
